@@ -77,4 +77,7 @@ Design, develop, and implement an automated tool to visualize the construction o
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/yourusername/AR-Construction-Visualization.git
+    ```
+```sh
    cd AR-Construction-Visualization
+```
