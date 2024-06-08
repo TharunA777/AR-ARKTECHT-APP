@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="b2bp12" size="29.000000 26.662188" />
+    <ImageTarget name="b3bp3" size="29.000000 32.571125" />
+    <ImageTarget name="b4bp1" size="29.000000 33.490322" />
+    <ImageTarget name="coordinationtarget021" size="29.000000 20.518612" />
+  </Tracking>
+</QCARConfig>
