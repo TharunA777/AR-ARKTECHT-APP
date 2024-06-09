@@ -52,13 +52,13 @@ An innovative mobile application that revolutionizes the construction industry b
   
 ### ARKTECHT APK INSTALLATION
 
--Download and install the .Apk file provided in the repo.
+- Download and install the .Apk file provided in the repo.
 
-**NOTE**
+**NOTE** (without the below Mobile requiremnts, app wont install and run properly)
 
-   -Minimum supported Android API Level 28 (Android Pie 9.0).
+   - Minimum supported Android API Level 28 (Android Pie 9.0).
    
-   -Andorid Phone must ARCORE support by GOOGLE use this [Link](https://developers.google.com/ar/devices) to check if your device is supported.
+   - Andorid Phone must ARCORE support by GOOGLE use this [Link](https://developers.google.com/ar/devices) to check if your device is supported.
      
 ### Usage
 
