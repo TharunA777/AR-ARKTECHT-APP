@@ -54,11 +54,11 @@ An innovative mobile application that revolutionizes the construction industry b
 
 - Download and install the .Apk file provided in the repo.
 
-**NOTE** (without the below Mobile requiremnts, app wont install and run properly)
+**NOTE** (without the below Mobile requirements, app wont install and run properly)
 
    - Minimum supported Android API Level 28 (Android Pie 9.0).
    
-   - Andorid Phone must ARCORE support by GOOGLE use this [Link](https://developers.google.com/ar/devices) to check if your device is supported.
+   - Andorid Phone must have ARCORE support by GOOGLE, use this [Link](https://developers.google.com/ar/devices) to check if your device is supported.
      
 ### Usage
 
