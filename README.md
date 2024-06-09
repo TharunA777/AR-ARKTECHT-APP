@@ -51,7 +51,8 @@ An innovative mobile application that revolutionizes the construction industry b
    - By installing Android build support inside unity you can develop, test, and deploy the app on Android devices.
   
 ### ARKTECHT APK INSTALLATION
-   -Download and install the .Apk file provided in the repo.
+
+-Download and install the .Apk file provided in the repo.
 
 **NOTE**
 
