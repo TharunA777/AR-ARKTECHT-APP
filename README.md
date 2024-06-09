@@ -37,3 +37,29 @@ An innovative mobile application that revolutionizes the construction industry b
    ```sh
    cd AR-Construction-Visualization
    ```
+
+2. **Set Up Unity Project:**
+   - Open Unity and load the project.
+
+3. **Install Vuforia SDK:**
+   - Follow the instructions on the Vuforia website to integrate it with Unity.
+
+4. **Build 3D Models:**
+   - Create or import 3D models using Blender or Maya and add them to the Unity project.
+
+5. **Develop the Mobile App:**
+   - Use Android Studio to develop, test, and deploy the app on Android devices.
+     
+### Usage
+
+1. **Login/Registration:**
+   - Register and log in using your credentials.
+   
+2. **Contact Developer:**
+   - Send the queries to developer through integrated google form.
+
+3. **Select and Interact with 3D Models:**
+   - Browse and select from available 3D models for visualization.
+   - Use marker-based AR to view and interact with the models in the real world.
+   - Explore the AR portal for an immersive experience.
+
