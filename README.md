@@ -48,7 +48,13 @@ An innovative mobile application that revolutionizes the construction industry b
    - Create or import 3D models using Blender or Maya and add them to the Unity project.
 
 5. **Develop the Mobile App:**
-   - Use Android Studio to develop, test, and deploy the app on Android devices.
+   - By installing Android build support inside unity you can develop, test, and deploy the app on Android devices.
+  
+     #### ARKTECHT APK INSTALLATION
+     -Download and install the .Apk file provided in the repo
+     **NOTE
+     -Minimum supported Android API Level 28 (Android Pie 9.0)
+     -Andorid Phone must ARCORE support by GOOGLE use this [Link](https://developers.google.com/ar/devices) to check if your device is supported.
      
 ### Usage
 
