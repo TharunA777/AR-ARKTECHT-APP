@@ -27,7 +27,7 @@ An innovative mobile application that revolutionizes the construction industry b
 ### How to Use
 
 1. **Prepare the Marker Images**: 
-   - Locate the marker images in the repository.
+   - Download the marker images in the repository.
    - You can either print these images or display them on a mobile or laptop screen.
 
 2. **Scan the Marker Images**: 
