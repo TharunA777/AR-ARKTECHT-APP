@@ -6,12 +6,12 @@ An innovative mobile application that revolutionizes the construction industry b
 
 
 ## Table of Contents
-- [Apk Installation and Usage] (#arktecht-apk-installation)
 - [Technologies Used](#technologies-used)
 - [Requirements](#requirements)
 - [Installation and Usage Instructions](#installation-and-usage-instructions)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License Information](#license-information)
+  
 
 ### ARKTECHT APK INSTALLATION
 
