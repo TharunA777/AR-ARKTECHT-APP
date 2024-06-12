@@ -4,9 +4,18 @@
 
 An innovative mobile application that revolutionizes the construction industry by integrating Building Information Modeling (BIM) with Augmented Reality (AR) and Virtual Reality (VR) technologies. The app enables immersive 3D model visualization and enhanced collaboration among architects, builders, and stakeholders. Developed using Unity 3D, Vuforia SDK, this tool simplifies construction processes, reduces costs, and improves decision-making.
 
+
+## Table of Contents
+- [Apk Installation and Usage] (#arktecht-apk-installation)
+- [Technologies Used](#technologies-used)
+- [Requirements](#requirements)
+- [Installation and Usage Instructions](#installation-and-usage-instructions)
+- [Contribution Guidelines](#contribution-guidelines)
+- [License Information](#license-information)
+
 ### ARKTECHT APK INSTALLATION
 
-- Download and install the .Apk file provided in the repo.
+   - Download and install the .Apk file provided in the repo.
 
 **NOTE** (without the below Mobile requirements, app wont install and run properly)
 
@@ -35,14 +44,6 @@ An innovative mobile application that revolutionizes the construction industry b
 5. **Experience the Virtual Building**: 
    - A large virtual building will be displayed on the ground.
    - Take a walk through it and enjoy the immersive experience!
-
-## Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [Requirements](#requirements)
-- [Installation and Usage Instructions](#installation-and-usage-instructions)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License Information](#license-information)
 
 ## Technologies Used
 
