@@ -15,12 +15,32 @@ An innovative mobile application that revolutionizes the construction industry b
    - Andorid Phone must have ARCORE support by GOOGLE, use this [Link](https://developers.google.com/ar/devices) to check if your device is supported.
      
 ## How to USE
-- use Marker images provided in the repository.
-- Either take a printout of those images or use a mobile or laptop screen to display the marker images.
-- First Scan those images use auto-detect feature to know which blue print belongs to which building (3D Model).
-- Once you identify the building, choose the specific building and scan it with its appropriate blue print.
-- Now you will get an ARPORTAL button, click on it and steadly scan the wide spacious ground, once the square mark appears on screen, click on it.
-- Now a Large virtual building will displayed on the ground, take a walk through it. Enjoy!!!
+Sure, here's an enhanced version of the instructions:
+
+---
+
+### How to Use
+
+1. **Prepare the Marker Images**: 
+   - Locate the marker images in the repository.
+   - You can either print these images or display them on a mobile or laptop screen.
+
+2. **Scan the Marker Images**: 
+   - Use the auto-detect feature to identify which blueprint corresponds to which 3D building model.
+   
+3. **Identify the Building**: 
+   - Once identified, select the specific building and scan its corresponding blueprint.
+
+4. **Activate AR Portal**: 
+   - Click on the ARPORTAL button.
+   - Steadily scan the wide, spacious ground.
+   - When a square marker appears on the screen, click on it.
+
+5. **Experience the Virtual Building**: 
+   - A large virtual building will be displayed on the ground.
+   - Take a walk through it and enjoy the immersive experience!
+
+---
 
 ## Table of Contents
 
