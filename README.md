@@ -14,10 +14,6 @@ An innovative mobile application that revolutionizes the construction industry b
    
    - Andorid Phone must have ARCORE support by GOOGLE, use this [Link](https://developers.google.com/ar/devices) to check if your device is supported.
      
-## How to USE
-Sure, here's an enhanced version of the instructions:
-
----
 
 ### How to Use
 
@@ -39,8 +35,6 @@ Sure, here's an enhanced version of the instructions:
 5. **Experience the Virtual Building**: 
    - A large virtual building will be displayed on the ground.
    - Take a walk through it and enjoy the immersive experience!
-
----
 
 ## Table of Contents
 
