@@ -4,6 +4,24 @@
 
 An innovative mobile application that revolutionizes the construction industry by integrating Building Information Modeling (BIM) with Augmented Reality (AR) and Virtual Reality (VR) technologies. The app enables immersive 3D model visualization and enhanced collaboration among architects, builders, and stakeholders. Developed using Unity 3D, Vuforia SDK, this tool simplifies construction processes, reduces costs, and improves decision-making.
 
+### ARKTECHT APK INSTALLATION
+
+- Download and install the .Apk file provided in the repo.
+
+**NOTE** (without the below Mobile requirements, app wont install and run properly)
+
+   - Minimum supported Android API Level 28 (Android Pie 9.0).
+   
+   - Andorid Phone must have ARCORE support by GOOGLE, use this [Link](https://developers.google.com/ar/devices) to check if your device is supported.
+     
+## How to USE
+- use Marker images provided in the repository.
+- Either take a printout of those images or use a mobile or laptop screen to display the marker images.
+- First Scan those images use auto-detect feature to know which blue print belongs to which building (3D Model).
+- Once you identify the building, choose the specific building and scan it with its appropriate blue print.
+- Now you will get an ARPORTAL button, click on it and steadly scan the wide spacious ground, once the square mark appears on screen, click on it.
+- Now a Large virtual building will displayed on the ground, take a walk through it. Enjoy!!!
+
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
