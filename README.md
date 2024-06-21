@@ -2,8 +2,13 @@
 
 ## Description
 
-An innovative mobile application that revolutionizes the construction industry by integrating Building Information Modeling (BIM) with Augmented Reality (AR) and Virtual Reality (VR) technologies. The app enables immersive 3D model visualization and enhanced collaboration among architects, builders, and stakeholders. Developed using Unity 3D, Vuforia SDK, this tool simplifies construction processes, reduces costs, and improves decision-making.
+An innovative mobile application that revolutionizes the construction industry by integrating Building Information Modeling (BIM) with Augmented Reality (AR) and Virtual Reality (VR) technologies. The app enables immersive 3D model visualization and enhanced collaboration among architects, builders, and stakeholders.
+Developed using Unity 3D, Vuforia SDK, this tool simplifies construction processes, reduces costs, and improves decision-making.
 
+### Full Video is uploaded to repository 
+
+## Screenshots
+ ![vgif](https://github.com/TharunA777/AR-ARKTECHT-APP/assets/132211534/7bb2b5f3-f42d-49ec-9186-ba7e938e4737)
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
