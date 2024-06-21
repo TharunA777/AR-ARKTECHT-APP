@@ -8,7 +8,8 @@ Developed using Unity 3D, Vuforia SDK, this tool simplifies construction process
 ### Full Video is uploaded to repository 
 
 ## Screenshots
- ![vgif](https://github.com/TharunA777/AR-ARKTECHT-APP/assets/132211534/7bb2b5f3-f42d-49ec-9186-ba7e938e4737)
+![vgif](https://github.com/TharunA777/AR-ARKTECHT-APP/assets/132211534/bc467228-9474-4e44-9345-7e3289607cdf)
+
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
